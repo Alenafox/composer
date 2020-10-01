@@ -1,0 +1,19 @@
+{
+    "require": {
+        "php":">=5.5.0",
+        "silex/silex":"dev-master",
+        "twig/twig":">=1.8,<2.0-dev",
+        "psr/http-message":" ^1.0",
+        "ext-xmlreader":" *",
+        "ext-zip":" *",
+        "yandex-market/yandex-market-php-partner": "*",
+        "microsoft/windowsazure": "^0.5",
+        "phpoffice/phpword": "v0.16.*"
+        "checkout/checkout-php-api": "1.2.18"
+    },
+    "require-dev": {
+      "monolog/monolog": "^1.0",
+      "phpunit/phpunit": "^6.0",
+      "friendsofphp/php-cs-fixer":" ^2"
+    }
+}
